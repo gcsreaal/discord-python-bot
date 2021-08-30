@@ -117,4 +117,4 @@ async def help(ctx, commandSent=None):
         await ctx.message.delete()
         await ctx.author.send(embed=embed)
 		
-bot.run('ODgxODQwNjUyNDA3NzAxNTM0.YSysGw.x7ZwhmIZEFmwRV8gY6ypDau-DO8')
+bot.run('IMPORTANT: ADD YOUR BOT TOKEN!')
